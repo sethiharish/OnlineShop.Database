@@ -67,4 +67,7 @@
     <Build Include="dbo\Tables\Category.sql" />
     <Build Include="dbo\Tables\Pie.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SqlSchemaCompare.scmp" />
+  </ItemGroup>
 </Project>
